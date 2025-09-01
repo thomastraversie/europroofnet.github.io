@@ -8,49 +8,52 @@ breadcrumbs: true
 
 <img src="/_pages/symposium/ipa11.jpg"/>
 
-(page under construction)
-
 **Date:** 8-19 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food) [[possible activities around]](../Activities)
 
-- [Access](access.md)
-- [Hotels](hotels.md)
-- [Food options](food.md)
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory). Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.
 
-**Events:**
+**Sponsors:**
 
-* LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
+<table>
+ <tr>
+  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
+ </tr>
+</table>
 
-* [WG2: Workshop on Automated Theorem Proving and Proof Logging](../wg2-symposium)
+**Programme:**
 
-* WG4: Workshop on Large Proof Libraries
+<!--
+* 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+* 11-13 September: [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
+* 13-14 September: [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/)
+* 15-16 September: [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
+* 15-18 September: [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
+* 17-19 September: [WG3: Workshop on Program Verification](../wg3-Sept2025)
+* 19 September: [MC: Report on EuroProofNet results](../mc-meetings)
+-->
 
-* MCLP: Conference on Mathematical and Computational Linguistics for Proofs
+| Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                        | Su14                        |
+| [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25)      |                          |                             |                             |
+|                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/)    |                             |
+|                     |                     |                     |                          |                          | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) |
+| (*)                 |                     |                     | (*)                      |                          |                             |                             |
 
-* WG3: Workshop on Program Verification
+| Mo15                  | Tu16                  | We17                   | Th18                   | Fr19                   |
+| [WG4](../WG4_Orsay25) | [WG4](../WG4_Orsay25) |                        |                        |                        |
+| [MCLP](../MCLP)       | [MCLP](../MCLP)       | [MCLP](../MCLP)        | [MCLP](../MCLP)        |                        |
+|                       |                       | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025) |
+|                       |                       |                        |                        | [MC](../mc-meetings)   |
+| (*)                   |                       |                        | (*)                    |                        |
 
-* MC: Report on EuroProofNet results
+<p style="font-size: 12px">(*) 17:30-18:30: happy hour</p>
 
-**Schedule:**
+<img src="https://deducteam.gitlabpages.inria.fr/img/gilles.jpg" width="50%"/>
 
-Week 1:
-
-| Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
-| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
-|                     |                     |                     | [WG2](../wg2-symposium/)                 | [WG2](../wg2-symposium/)  | [WG2](../wg2-symposium/)  |      |
-| (*)                 |                     |                     | (*)                 |      |      |      |
-
-Week 2:
-
-| Mo15 | Tu16 | We17 | Th18 | Fr19 |
-| WG4  | WG4  |      |      |      |
-| MCLP | MCLP | MCLP | MCLP |      |
-|      |      | WG3  | WG3  | WG3  |
-|      |      |      |      | MC   |
-| (*)  |      | (*)  |      | MC   |
-
-(*) 17:30-18:30: happy hour
+This symposium is dedicated to the memory of [Gilles Dowek](https://lsv.ens-paris-saclay.fr/~dowek/), who died on 21 July 2025 at 58 years old. Gilles was the founder of [Deducteam](https://deducteam.gitlabpages.inria.fr/) and of the [Dedukti](https://deducteam.github.io/) logical framework, which plays a central role in EuroProofNet. He was vice leader of the WG4 on proof libraries from 2021 to 2022. He made important contributions not only in logic (unification, automated theorem proving, type theory) but also in quantum programming languages and philosophy. He received several awards from the French Academy of Sciences. He was a brilliant speaker and teacher, and published several books in computer science, logic and philosophy. He has been very active in promoting the teaching of computer science in high school and contributed to the definition of the corresponding cursus. Finally, he supervised or co-supervised many PhD students.
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)

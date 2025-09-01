@@ -35,11 +35,11 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 
 **Before the travel:**
 
-  The current Grant Holder cannot use the bank details entered on the COST platform. It is imperative to send the following information to Aissatou DIALLO (aissatou-sadio.diallo@inria.fr):
-    * Your full name (first and last name)
-    * Your place and date of birth
-    * Your address
-    * The name of your current university or company
+  The current Grant Holder will contact you a few weeks before the meeting asking you the following information:
+    * Full name (first and last name)
+    * Place and date of birth
+    * Address
+    * The name of your university or company
     * An official document from your bank or one or several screen captures where we can find: your name, IBAN, Swift code, name and address of your bank. Each of these details is essential for the reimbursement of your expenses.
 
   If you have already sent this information for a previous meeting AND if it has not changed since then, there is no need to resend it.
@@ -47,16 +47,13 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 **During the travel:**
 
   Keep all the receipts and tickets of your transports and accommodations:
-
     * Transport expenses will be reimbursed according to your real expenses on presentation of the transport invoice in your name with details of dates, times and place of transport. Proof of travel in the form of boarding passes, train tickets or toll tickets is mandatory.
-
     * Accommodation expenses will be reimbursed in the form of an accommodation allowance (65% of daily allowance) on presentation of the accommodation invoice in your name.
-
     * Meal expenses will be paid in the form of a meal allowance for lunch (17,50% of daily allowance) and for dinner (17,50% of daily allowance).
 
 **After the travel:**
 
-  In order to be reimbursed readily, send all the travel documents and proofs of payments as soon as possible after your mission to Aïssatou DIALLO (aissatou-sadio.diallo@inria.fr).
+  In order to be reimbursed readily, send all the travel documents and proofs of payments as soon as possible after your mission.
 
 If you have questions, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).

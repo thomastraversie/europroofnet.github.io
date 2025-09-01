@@ -15,93 +15,138 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
 
+## 13th call (16th March 2025)
+
+* **String Solving with Parametrized Automata** [application](/_pages/stsm/alber-app.pdf) [report](/_pages/stsm/alber-rep.pdf)   
+  Visitor: Franziska Alber   
+  Host: Laura Kovács   
+  Grant: 1243 EUR  
+  Dates: 2025-05-25 to 2025-06-01
+
+* **Indexing and web search for cross libraries Proofs** [application](/_pages/stsm/alidra-app.pdf)   
+  Visitor: Abdelghani Alidra  
+  Host: Claudio Sacerdoti Coen  
+  Grant: 1413 EUR  
+  Dates: 2025-04-14 to 2025-04-24
+
+* **Tree Transformers for Symbolic Mathematics** [application](/_pages/stsm/barket-app.pdf)   
+  Visitor: Rashid Barket  
+  Host: François Lemaire  
+  Grant: 966 EUR  
+  Dates: 2025-06-30 to 2025-07-13
+
+* **Formal verification of rule-based geometry** [application](/_pages/stsm/boutry-app.pdf)   
+  Visitor: Pierre Boutry  
+  Host: Vesna Marinković  
+  Grant: 800 EUR  
+  Dates: 2025-06-08 to 2025-06-13
+
+* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere** [application](/_pages/stsm/mikhail-app.pdf) [report](/_pages/stsm/mikhail-rep.pdf)   
+  Visitor: Thomas Jan Mikhail  
+  Host: Christian Sattler  
+  Grant: 1050 EUR  
+  Dates: 2025-05-11 to 2025-05-24
+
+* **Model Representation Formalisms for Constrained Horn Clauses over Algebraic Data Types** [application](/_pages/stsm/moehle-rotondi-app.pdf)   
+  Visitor: Sibylle Moehle-Rotondi  
+  Host: Viktor Kunčak  
+  Grant: 1189 EUR  
+  Dates: 2025-06-16 to 2025-06-27
+
+* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf) [report](/_pages/stsm/ranta-rep.pdf)   
+  Visitor: Aarne Ranta  
+  Host: Frédéric Blanqui  
+  Grant: 1548 EUR  
+  Dates: 2025-04-09 to 2025-04-16
+
+
 ## 12th call (24th November  2024)
 
-* **Verification of Higher-Order Logic Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app25.pdf)   
+* **Verification of Higher-Order Logic Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app25.pdf) [report](/_pages/stsm/taprogge-rep25.pdf)   
   Visitor: Melanie Taprogge  
   Host: Alexander Steen      
   Grant: 1624 EUR  
   Dates: 2025-05-19 to 2025-05-30
 
-* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf)   
+* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf) [repor](/_pages/stsm/cheval-rep25.pdf)   
   Visitor: Horatiu Cheval   
   Host: Thomas Powell    
   Grant: 1716 EUR  
   Dates: 2025-05-11 to 2025-05-17
 
- * **Dinatural Semantics of Directed Type Theory** [application](/_pages/stsm/neumann-app25.pdf)   
+ * **Dinatural Semantics of Directed Type Theory** [application](/_pages/stsm/neumann-app25.pdf) [report](/_pages/stsm/neumann-rep25.pdf)   
   Visitor: Jacob Neumann   
   Host: Niccolò Veltri     
   Grant: 1819 EUR  
   Dates: 2025-05-07 to 2025-05-20
 
-* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf)   
+* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf) [report](/_pages/stsm/konjoh-selabi-rep.pdf)   
   Visitor: Elvis Gerardin Konjoh Selabi    
   Host: Alberto Lluch Lafuente     
   Grant: 1631 EUR  
   Dates: 2025-04-14 to 2025-04-25
 
-* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)   
+* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)  [report](/_pages/stsm/rowe-rep.pdf)   
   Visitor: Reuben Rowe    
   Host:  Anela Lolić    
   Grant: 1677 EUR  
   Dates: 2025-04-06 to 2025-04-13
 
-* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf)   
+* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf) [report](/_pages/stsm/boukir-rep.pdf)   
   Visitor: Khaoula Boukir    
   Host: Dilian Gurov     
   Grant: 1580 EUR  
   Dates: 2025-04-05 to 2025-04-12
 
-* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf)   
+* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf) [report](/_pages/stsm/ford-rep.pdf)   
   Visitor: Chase Ford     
   Host: Lutz Schröder     
   Grant: 1358 EUR  
   Dates: 2025-03-23 to 2025-03-29      
 
-* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf)   
+* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf) [report](/_pages/stsm/nantes-rep.pdf)   
   Visitor: Daniele Nantes    
   Host: David Cerna     
   Grant: 755 EUR  
   Dates: 2025-03-17 to 2025-03-27
 
-* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)   
+* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)  [report](/_pages/stsm/dunne-rep.pdf)   
   Visitor: Ciarán Dunne    
   Host: Michael Kohlhase      
   Grant: 1124 EUR  
   Dates: 2025-03-10 to 2025-03-21
 
-* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf)   
+* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf) [report](/_pages/stsm/herrmann-rep.pdf)   
   Visitor: Roland Herrmann    
   Host: Dilian Gurov      
   Grant: 1486 EUR  
   Dates: 2025-03-09 to 2025-03-16
 
-* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)   
+* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)  [report](/_pages/stsm/kutsia-rep.pdf)   
   Visitor: Temur Kutsia   
   Host: David Cerna      
   Grant: 600 EUR  
   Dates: 2025-02-23 to 2025-03-02
 
-* **Adding Extensionality to Lean** [application](/_pages/stsm/vaishnav-app.pdf)   
+* **Adding Extensionality to Lean** [application](/_pages/stsm/vaishnav-app25.pdf)   
   Visitor: Rishikesh Vaishnav   
   Host: Sebastian Ullrich   
   Grant: 1576 EUR  
   Dates: 2025-02-17 to 2025-03-02
 
- * **Developing a graded type system for a resource-aware workflow modelling language** [application](/_pages/stsm/pun-app25.pdf)   
+ * **Developing a graded type system for a resource-aware workflow modelling language** [application](/_pages/stsm/pun-app25.pdf)  [report](/_pages/stsm/pun-rep25.pdf)   
   Visitor: Violet Ka I Pun     
   Host: Elena Zucca      
   Grant: 1520 EUR  
   Dates: 2025-02-16 to 2025-02-22
 
-* **Translation templates for Dedukti** [application](/_pages/stsm/traversie-app.pdf)   
+* **Translation templates for Dedukti** [application](/_pages/stsm/traversie-app.pdf)  [report](/_pages/stsm/traversie-rep.pdf)   
   Visitor: Thomas Traversie  
   Host: Florian Rabe     
   Grant: 1530 EUR  
   Dates: 2025-02-02 to 2025-02-14
 
-* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)   
+* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)  [report](/_pages/stsm/choudhury-rep.pdf)   
   Visitor: Vikraman Choudhury    
   Host: Marcelo Fiore     
   Grant: 1131 EUR  
@@ -140,7 +185,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2850 EUR    
   Dates: 2024-09-09 to 2024-09-24
 
-* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf)    
+* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf) [report](/_pages/stsm/pujet-rep.pdf)    
   Visitor: Loïc Pujet   
   Host: Ambrus Kaposi     
   Grant: 1430 EUR   
@@ -417,7 +462,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2702 EUR  
   Dates: 2023-08-28 to 2023-09-08
 
-* **An interface for category theory in coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)  [report](/_pages/stsm/chabassier-app.pdf)   
+* **An interface for category theory in Coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)  [report](/_pages/stsm/chabassier-app.pdf)   
   Visitor: Luc Chabassier  
   Host: Benedikt Ahrens  
   Grant: 2082 EUR  

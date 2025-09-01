@@ -11,6 +11,18 @@ author_profile: true
 
 **Past events:**
 
+**2025**
+
+- 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
+- 7-11 July 2025: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions](../Kutaisi25), Kutaisi, Georgia
+- 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
+- 5-6 June 2025: [Workshop on Reasoning with Quantitative Types](https://europroofnet.github.io/WRQT2025/), Porto, Portugal
+- 3-5 June 2025: [WG2 meeting on ATPs for geometry](../wg2-geo25), Krakow, Poland
+- 3-5 June 2025: [School on Natural Formal Mathematics](https://naproche.github.io/school/), Bonn, Germany
+- 17-18 April 2025: [WG6 meeting](../wg6-genoa/), co-located with the [2025 Workshop on Homotopy Type Theory / Univalent Foundations](https://hott-uf.github.io/2025/) (HoTT/UF), Genoa, Italy
+- 7-8 April 2025: [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
+- 11-13 February 2025: [WG1 meeting](../Nogent25/), Nogent-sur-Seine, France
+
 **2024**
 
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
